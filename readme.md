@@ -1,6 +1,3 @@
-Aqui está o README atualizado com base no código fornecido:
-
-```markdown
 # Projeto de Exibição de "Pac-Man" em um Display LCD
 
 ## Visão Geral
@@ -42,6 +39,3 @@ Conecte o display LCD ao Arduino da seguinte maneira:
 - Gerônimo Augusto - RM 557170
 - Mateus Leme - RM 93480
 - Vitor Augusto - RM 555469
-```
-
-Este README agora reflete a presença da logo da equipe "NEXT FUTURE" durante a animação e está atualizado com as informações relevantes do projeto.

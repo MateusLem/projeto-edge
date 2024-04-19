@@ -1,7 +1,10 @@
+Aqui está o README atualizado com base no código fornecido:
+
+```markdown
 # Projeto de Exibição de "Pac-Man" em um Display LCD
 
 ## Visão Geral
-Este projeto é um exemplo simples de como criar uma animação do personagem "Pac-Man" em um display LCD utilizando uma placa Arduino e a biblioteca LiquidCrystal.
+Este projeto é um exemplo simples de como criar uma animação do personagem "Pac-Man" em um display LCD utilizando uma placa Arduino e a biblioteca LiquidCrystal. Além disso, inclui a exibição da logo da equipe "NEXT FUTURE" (um robô) durante a animação.
 
 ## Recursos Utilizados
 - Arduino Uno (ou similar)
@@ -19,7 +22,7 @@ Conecte o display LCD ao Arduino da seguinte maneira:
 - Pinos D4 a D7 do LCD aos pinos digitais 5 a 2 do Arduino
 
 ## Funcionalidades
-- A animação exibe o a logo da equipe "NEXT FUTURE" movendo-se horizontalmente no display LCD, enquanto um ícone "Pac-Man" acompanha o movimento com sua boca abrindo e fechando.
+- A animação exibe a logo da equipe "NEXT FUTURE" movendo-se horizontalmente no display LCD, enquanto um ícone "Pac-Man" acompanha o movimento com sua boca abrindo e fechando.
 - O movimento do "Pac-Man" é realizado desenhando e redesenhando seus caracteres personalizados em diferentes posições no display.
 
 ## Uso do Código
@@ -35,7 +38,10 @@ Conecte o display LCD ao Arduino da seguinte maneira:
 
 
 ## Contribuidores
-- Ana Laura <sobrenome> - RM <>
-- Gerônimo <sobrenome> - RM <>
+- Ana Laura Torres - RM 554375
+- Gerônimo Augusto - RM 557170
 - Mateus Leme - RM 93480
-- Vitor <sobrenome> - RM <>
+- Vitor Augusto - RM 555469
+```
+
+Este README agora reflete a presença da logo da equipe "NEXT FUTURE" durante a animação e está atualizado com as informações relevantes do projeto.
